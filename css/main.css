@@ -101,10 +101,11 @@ span {
 	margin-top: 10px;
 }
 .aaa {
+	text-decoration: none;
 	transition: color 0.5s linear;
 }
 .aaa:hover {
-	color: #87CEFA;
+	color: #ffff;
 }
 .layer-1 {
 	transform: scale(0.9);
